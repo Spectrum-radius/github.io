@@ -1,2 +1,2 @@
 # github.io
-This is my personal page.
+Welcome to my page.
